@@ -1,0 +1,9 @@
+KairosCare offline site download
+Source: https://kairoscare.manus.space/
+
+ok	370432	text/html	https://kairoscare.manus.space/${v.screenshot}	${v.screenshot}
+ok	363	application/manifest+json	https://kairoscare.manus.space/__manus/pwa/manifest.webmanifest	__manus/pwa/manifest.webmanifest
+ok	126628	text/css	https://kairoscare.manus.space/assets/index-3j3laNFt.css	assets/index-3j3laNFt.css
+ok	358629	text/javascript	https://kairoscare.manus.space/assets/index-LdXf8ZbA.js	assets/index-LdXf8ZbA.js
+ok	370400	text/html	https://kairoscare.manus.space/r	r
+error: HTTP Error 404: Not Found	0		https://kairoscare.manus.space/s,window.location.href	s,window.location.href
